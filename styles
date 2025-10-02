@@ -1,8 +1,10 @@
  body{
-    background: rgb(51, 8, 36);
-    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(8, 6, 53);
+    font-family: Arial, 
+    'Times New Roman', Times, serif, sans-serif;
  }
  h1{
     color:whitesmoke;
     text-align: center; 
  }
+
